@@ -2,7 +2,7 @@
 This repository contains Matlab files used for estimation and prediction 
 of the Composite Factor State-Space Model (CFSSM) as proposed in Hartkopf (2020).
 
-References:
+## References:
 [1] Hartkopf, J. P. (2020). From Large to Vast: Composite Forecasting of 
       Vast-Dimensional Realized Covariance Matrices Using Factor State-Space 
       Models. SSRN Working paper, http://dx.doi.org/10.2139/ssrn.3721110
